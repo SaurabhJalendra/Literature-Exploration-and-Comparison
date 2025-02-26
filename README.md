@@ -102,6 +102,3 @@ Future work may involve:
 - Conducting experiments to validate the findings from the literature and industry products.
 - Developing a prototype BCI system based on the insights gained from this project.
 - Exploring additional datasets and models to further enhance the understanding of EEG signal processing.
-
-## References
-- [List any additional references or resources used in the assignment here.]
